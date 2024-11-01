@@ -4,7 +4,7 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 bookie-backend/appsettings.json
-bookie-backend/Properties
+bookie-backend/Properties/
 
 # User-specific files
 *.rsuser
